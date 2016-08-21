@@ -2,4 +2,4 @@
 
 legit config for experienced players.
 
-updated july 2016
+updated 21-August 2016
