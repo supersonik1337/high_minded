@@ -11,7 +11,7 @@ WeaponSettings=1
 WeaponSettings=1
 
 [CSS-ESP]
-Box=1
+Box=0
 Name=0
 Health=0
 Distance=0
@@ -21,7 +21,7 @@ Skeleton=0
 Spot=0
 Warnings=0
 ShowDefuse=0
-EnemysOnly=1
+EnemysOnly=0
 
 [CSS-Radar]
 Active=0
@@ -35,7 +35,7 @@ X=120
 Y=350
 
 [CSS-BHop]
-Active=1
+Active=0
 Key=32
 
 ///////////////
@@ -51,7 +51,7 @@ Time=0
 Spot=0
 OnGround=0
 Visibility=0
-WeaponSettings=1
+WeaponSettings=0
 
 [CSGO-RCS]
 Active=0
@@ -111,7 +111,7 @@ X=120
 Y=350
 
 [CSGO-Glow]
-Active=1
+Active=0
 ShowDefuse=1
 Visibility=1
 EnemysOnly=1
@@ -121,25 +121,25 @@ EnemysOnly=1
 Visible-Red=96
 Visible-Green=137
 Visible-Blue=167
-Visible-Alpha=111
+Visible-Alpha=105
 Invisible-Red=96
 Invisible-Green=137
 Invisible-Blue=167
-Invisible-Alpha=111
+Invisible-Alpha=105
 Defuse-Red=255
 Defuse-Green=0
 Defuse-Blue=0
-Defuse-Alpha=111
+Defuse-Alpha=105
  
 [CSGO-T-GlowColor]
 Visible-Red=157
 Visible-Green=148
 Visible-Blue=53
-Visible-Alpha=111
+Visible-Alpha=105
 Invisible-Red=157
 Invisible-Green=148
 Invisible-Blue=53
-Invisible-Alpha=111
+Invisible-Alpha=105
 
 [CSGO-BHop]
 Active=0
