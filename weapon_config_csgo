@@ -4,11 +4,11 @@
 
 [Glock-18]
 Aimbot-Key=1
-Aimbot-FOV=1.0
+Aimbot-FOV=0.8
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -32,11 +32,11 @@ Trigger-Hitbox-Legs=1
 
 [P2000]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -60,11 +60,11 @@ Trigger-Hitbox-Legs=1
 
 [USP-S]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -88,11 +88,11 @@ Trigger-Hitbox-Legs=1
 
 [P250]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -116,11 +116,11 @@ Trigger-Hitbox-Legs=1
 
 [CZ75-Auto]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -145,11 +145,11 @@ Trigger-Hitbox-Legs=1
 
 [Five-seveN]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -173,11 +173,11 @@ Trigger-Hitbox-Legs=1
 
 [Desert Eagle]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
-Aimbot-Smooth=3.0
+Aimbot-Smooth=2.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -201,11 +201,11 @@ Trigger-Hitbox-Legs=1
 
 [Dual Berettas]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -229,11 +229,11 @@ Trigger-Hitbox-Legs=1
 
 [Tec-9]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -263,11 +263,11 @@ Trigger-Hitbox-Legs=1
 
 [Nova]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -291,11 +291,11 @@ Trigger-Hitbox-Legs=1
 
 [XM1014]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -319,11 +319,11 @@ Trigger-Hitbox-Legs=1
 
 [Sawed-off]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -347,11 +347,11 @@ Trigger-Hitbox-Legs=1
 
 [MAG-7]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -375,11 +375,11 @@ Trigger-Hitbox-Legs=1
 
 [M249]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -403,11 +403,11 @@ Trigger-Hitbox-Legs=1
 
 [Negev]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -437,11 +437,11 @@ Trigger-Hitbox-Legs=1
 
 [MAC-10]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -465,11 +465,11 @@ Trigger-Hitbox-Legs=1
 
 [MP9]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -493,11 +493,11 @@ Trigger-Hitbox-Legs=1
 
 [MP7]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -521,11 +521,11 @@ Trigger-Hitbox-Legs=1
 
 [UMP-45]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -549,11 +549,11 @@ Trigger-Hitbox-Legs=1
 
 [PP-Bizon]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -577,11 +577,11 @@ Trigger-Hitbox-Legs=1
 
 [P90]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -611,11 +611,11 @@ Trigger-Hitbox-Legs=1
 
 [Galil AR]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -639,11 +639,11 @@ Trigger-Hitbox-Legs=1
 
 [FAMAS]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -667,11 +667,11 @@ Trigger-Hitbox-Legs=1
 
 [AK-47]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -695,11 +695,11 @@ Trigger-Hitbox-Legs=1
 
 [M4A4]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -723,11 +723,11 @@ Trigger-Hitbox-Legs=1
 
 [M4A1-S]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -751,12 +751,12 @@ Trigger-Hitbox-Legs=1
 
 [SSG 08]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
-Aimbot-Spot=6
+Aimbot-Time=30
+Aimbot-Spot=5
 Aimbot-OnGround=1
 Aimbot-Visibility=0
 RCS-Active=0
@@ -775,11 +775,11 @@ Trigger-Hitbox-Legs=1
 
 [SG556]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -803,11 +803,11 @@ Trigger-Hitbox-Legs=1
 
 [AUG]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -831,12 +831,12 @@ Trigger-Hitbox-Legs=1
 
 [AWP]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
-Aimbot-Spot=6
+Aimbot-Time=30
+Aimbot-Spot=4
 Aimbot-OnGround=1
 Aimbot-Visibility=0
 RCS-Active=0
@@ -855,11 +855,11 @@ Trigger-Hitbox-Legs=1
 
 [G3SG1]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
@@ -883,11 +883,11 @@ Trigger-Hitbox-Legs=1
 
 [SCAR-20]
 Aimbot-Key=1
-Aimbot-FOV=1.00
+Aimbot-FOV=0.80
 Aimbot-FOVbyDistance=1
 Aimbot-Smooth=3.0
 Aimbot-Curve=100.0
-Aimbot-Time=15
+Aimbot-Time=30
 Aimbot-Spot=6
 Aimbot-OnGround=1
 Aimbot-Visibility=0
