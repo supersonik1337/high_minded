@@ -2,4 +2,6 @@
 
 legit config for experienced players.
 
-updated 02 November 2016
+updated 30 November 2016
+
+hitbox changes
