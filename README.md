@@ -2,7 +2,7 @@
 
 legit config for experienced players.
 
-updated 06-02-17
+updated 23-04-17
 
 - added aimbot only weapon config
 - set the aimtime for pistols and rifles to 41 in the aimbot only weapon config
